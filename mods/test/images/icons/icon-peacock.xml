@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TextureAtlas imagePath="icon-bucks.Peacock.png">
+	
+	<SubTexture name="idle" x="0" y="0" width="164" height="143" frameX="0" frameY="0" frameWidth="164" frameHeight="143"/>
+	
+	<SubTexture name="losing" x="166" y="0" width="164" height="143" frameX="0" frameY="0" frameWidth="164" frameHeight="143"/>
+	
+</TextureAtlas>

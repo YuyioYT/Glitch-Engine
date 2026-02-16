@@ -1,0 +1,95 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [10, 0],
+			"anim": "idle",
+			"fps": 24,
+			"name": "PeacockIdle",
+			"indices": []
+		},
+		{
+			"offsets": [-16, -14],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "PeacockDown"
+		},
+		{
+			"offsets": [-13, 55],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "PeacockUp"
+		},
+		{
+			"loop": false,
+			"offsets": [7, -14],
+			"anim": "clear",
+			"fps": 24,
+			"name": "claer",
+			"indices": []
+		},
+		{
+			"offsets": [-24, 20],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "PeacockMissLeft"
+		},
+		{
+			"offsets": [49, 4],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "PeacockRight"
+		},
+		{
+			"offsets": [-30, 0],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "PeacockLeft"
+		},
+		{
+			"offsets": [0, 89],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "PeacockMissUp"
+		},
+		{
+			"offsets": [60, 18],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "PeacockMissRight"
+		},
+		{
+			"offsets": [-20, 0],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "PeacockMissDown"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/peacoplay",
+	"position": [220, 120],
+	"healthicon": "icon-peacock",
+	"flip_x": false,
+	"healthbar_colors": [255, 204, 102],
+	"camera_position": [200, -10],
+	"sing_duration": 6.1,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

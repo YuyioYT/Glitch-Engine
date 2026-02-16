@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-50,
+				154
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "ZIB spooky up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				120,
+				10
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "ZIB spooky right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				16
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "ZIB spooky left"
+		},
+		{
+			"offsets": [
+				-20,
+				7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "ZIB spooky down"
+		},
+		{
+			"offsets": [
+				-18,
+				29
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "ZIB spooky idle"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/zibidispooky",
+	"position": [
+		-120,
+		-170
+	],
+	"healthicon": "zibspooky",
+	"flip_x": false,
+	"healthbar_colors": [
+		243,
+		255,
+		110
+	],
+	"camera_position": [
+		30,
+		-170
+	],
+	"sing_duration": 6.99999999999999,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

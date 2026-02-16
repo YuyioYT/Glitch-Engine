@@ -1,0 +1,14 @@
+flixel/input/FlxPointer.hx (line 42)
+flixel/input/FlxPointer.hx (line 132)
+backend/ui/PsychUIBox.hx (line 113)
+flixel/group/FlxGroup.hx (line 151)
+backend/MusicBeatState.hx (line 88)
+states/editors/MasterEditorMenu.hx (line 156)
+flixel/FlxState.hx (line 239)
+flixel/FlxGame.hx (line 756)
+flixel/FlxGame.hx (line 686)
+flixel/FlxGame.hx (line 559)
+
+Uncaught Error: Null Object Reference
+
+> Crash Handler written by: sqirra-rng

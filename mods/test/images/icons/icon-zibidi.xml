@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<TextureAtlas imagePath="icon-bucks.Zibidi.png">
+	
+	<SubTexture name="idle" x="0" y="0" width="178" height="151" frameX="0" frameY="-10" frameWidth="178" frameHeight="165"/>
+	
+	<SubTexture name="losing" x="179" y="0" width="143" height="165" frameX="-8" frameY="0" frameWidth="178" frameHeight="165"/>
+	
+</TextureAtlas>

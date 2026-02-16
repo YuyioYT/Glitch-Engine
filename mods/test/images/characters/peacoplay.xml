@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="peacoplay.png">
+	<!-- Created with Adobe Flash CS6 version 12.0.0.481 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="PeacockDown0000" x="0" y="0" width="365" height="692" frameX="-1" frameY="-7" frameWidth="366" frameHeight="699"/>
+	<SubTexture name="PeacockDown0001" x="0" y="0" width="365" height="692" frameX="-1" frameY="-7" frameWidth="366" frameHeight="699"/>
+	<SubTexture name="PeacockDown0002" x="365" y="0" width="356" height="699" frameX="0" frameY="0" frameWidth="366" frameHeight="699"/>
+	<SubTexture name="PeacockDown0003" x="365" y="0" width="356" height="699" frameX="0" frameY="0" frameWidth="366" frameHeight="699"/>
+	<SubTexture name="PeacockDown0004" x="365" y="0" width="356" height="699" frameX="0" frameY="0" frameWidth="366" frameHeight="699"/>
+	<SubTexture name="PeacockDown0005" x="365" y="0" width="356" height="699" frameX="0" frameY="0" frameWidth="366" frameHeight="699"/>
+	<SubTexture name="PeacockDown0006" x="365" y="0" width="356" height="699" frameX="0" frameY="0" frameWidth="366" frameHeight="699"/>
+	<SubTexture name="PeacockDown0007" x="365" y="0" width="356" height="699" frameX="0" frameY="0" frameWidth="366" frameHeight="699"/>
+	<SubTexture name="PeacockDown0008" x="365" y="0" width="356" height="699" frameX="0" frameY="0" frameWidth="366" frameHeight="699"/>
+	<SubTexture name="PeacockDown0009" x="365" y="0" width="356" height="699" frameX="0" frameY="0" frameWidth="366" frameHeight="699"/>
+	<SubTexture name="PeacockDown0010" x="365" y="0" width="356" height="699" frameX="0" frameY="0" frameWidth="366" frameHeight="699"/>
+	<SubTexture name="PeacockDown0011" x="365" y="0" width="356" height="699" frameX="0" frameY="0" frameWidth="366" frameHeight="699"/>
+	<SubTexture name="PeacockDown0012" x="365" y="0" width="356" height="699" frameX="0" frameY="0" frameWidth="366" frameHeight="699"/>
+	<SubTexture name="PeacockDown0013" x="365" y="0" width="356" height="699" frameX="0" frameY="0" frameWidth="366" frameHeight="699"/>
+	<SubTexture name="PeacockIdle0000" x="721" y="0" width="374" height="699" frameX="-6" frameY="-13" frameWidth="398" frameHeight="712"/>
+	<SubTexture name="PeacockIdle0001" x="721" y="0" width="374" height="699" frameX="-6" frameY="-13" frameWidth="398" frameHeight="712"/>
+	<SubTexture name="PeacockIdle0002" x="1095" y="0" width="373" height="690" frameX="-7" frameY="-22" frameWidth="398" frameHeight="712"/>
+	<SubTexture name="PeacockIdle0003" x="1095" y="0" width="373" height="690" frameX="-7" frameY="-22" frameWidth="398" frameHeight="712"/>
+	<SubTexture name="PeacockIdle0004" x="1468" y="0" width="391" height="705" frameX="-2" frameY="-7" frameWidth="398" frameHeight="712"/>
+	<SubTexture name="PeacockIdle0005" x="1468" y="0" width="391" height="705" frameX="-2" frameY="-7" frameWidth="398" frameHeight="712"/>
+	<SubTexture name="PeacockIdle0006" x="1859" y="0" width="398" height="709" frameX="0" frameY="-3" frameWidth="398" frameHeight="712"/>
+	<SubTexture name="PeacockIdle0007" x="1859" y="0" width="398" height="709" frameX="0" frameY="-3" frameWidth="398" frameHeight="712"/>
+	<SubTexture name="PeacockIdle0008" x="2257" y="0" width="398" height="712"/>
+	<SubTexture name="PeacockIdle0009" x="2257" y="0" width="398" height="712"/>
+	<SubTexture name="PeacockIdle0010" x="2257" y="0" width="398" height="712"/>
+	<SubTexture name="PeacockIdle0011" x="2257" y="0" width="398" height="712"/>
+	<SubTexture name="PeacockIdle0012" x="2257" y="0" width="398" height="712"/>
+	<SubTexture name="PeacockIdle0013" x="2257" y="0" width="398" height="712"/>
+	<SubTexture name="PeacockLeft0000" x="2655" y="0" width="397" height="712"/>
+	<SubTexture name="PeacockLeft0001" x="2655" y="0" width="397" height="712"/>
+	<SubTexture name="PeacockLeft0002" x="3052" y="0" width="389" height="709" frameX="-8" frameY="-3" frameWidth="397" frameHeight="712"/>
+	<SubTexture name="PeacockLeft0003" x="3052" y="0" width="389" height="709" frameX="-8" frameY="-3" frameWidth="397" frameHeight="712"/>
+	<SubTexture name="PeacockLeft0004" x="3052" y="0" width="389" height="709" frameX="-8" frameY="-3" frameWidth="397" frameHeight="712"/>
+	<SubTexture name="PeacockLeft0005" x="3052" y="0" width="389" height="709" frameX="-8" frameY="-3" frameWidth="397" frameHeight="712"/>
+	<SubTexture name="PeacockLeft0006" x="3052" y="0" width="389" height="709" frameX="-8" frameY="-3" frameWidth="397" frameHeight="712"/>
+	<SubTexture name="PeacockLeft0007" x="3052" y="0" width="389" height="709" frameX="-8" frameY="-3" frameWidth="397" frameHeight="712"/>
+	<SubTexture name="PeacockLeft0008" x="3052" y="0" width="389" height="709" frameX="-8" frameY="-3" frameWidth="397" frameHeight="712"/>
+	<SubTexture name="PeacockLeft0009" x="3052" y="0" width="389" height="709" frameX="-8" frameY="-3" frameWidth="397" frameHeight="712"/>
+	<SubTexture name="PeacockLeft0010" x="3052" y="0" width="389" height="709" frameX="-8" frameY="-3" frameWidth="397" frameHeight="712"/>
+	<SubTexture name="PeacockLeft0011" x="3052" y="0" width="389" height="709" frameX="-8" frameY="-3" frameWidth="397" frameHeight="712"/>
+	<SubTexture name="PeacockLeft0012" x="3052" y="0" width="389" height="709" frameX="-8" frameY="-3" frameWidth="397" frameHeight="712"/>
+	<SubTexture name="PeacockLeft0013" x="3052" y="0" width="389" height="709" frameX="-8" frameY="-3" frameWidth="397" frameHeight="712"/>
+	<SubTexture name="PeacockMissDown 0000" x="3441" y="0" width="365" height="692" frameX="0" frameY="-24" frameWidth="365" frameHeight="717"/>
+	<SubTexture name="PeacockMissDown 0001" x="0" y="712" width="344" height="717" frameX="-9" frameY="0" frameWidth="365" frameHeight="717"/>
+	<SubTexture name="PeacockMissDown 0002" x="0" y="712" width="344" height="717" frameX="-9" frameY="0" frameWidth="365" frameHeight="717"/>
+	<SubTexture name="PeacockMissDown 0003" x="344" y="712" width="344" height="717" frameX="-9" frameY="0" frameWidth="365" frameHeight="717"/>
+	<SubTexture name="PeacockMissDown 0004" x="0" y="712" width="344" height="717" frameX="-9" frameY="0" frameWidth="365" frameHeight="717"/>
+	<SubTexture name="PeacockMissDown 0005" x="0" y="712" width="344" height="717" frameX="-9" frameY="0" frameWidth="365" frameHeight="717"/>
+	<SubTexture name="PeacockMissDown 0006" x="0" y="712" width="344" height="717" frameX="-9" frameY="0" frameWidth="365" frameHeight="717"/>
+	<SubTexture name="PeacockMissDown 0007" x="0" y="712" width="344" height="717" frameX="-9" frameY="0" frameWidth="365" frameHeight="717"/>
+	<SubTexture name="PeacockMissDown 0008" x="0" y="712" width="344" height="717" frameX="-9" frameY="0" frameWidth="365" frameHeight="717"/>
+	<SubTexture name="PeacockMissDown 0009" x="0" y="712" width="344" height="717" frameX="-9" frameY="0" frameWidth="365" frameHeight="717"/>
+	<SubTexture name="PeacockMissDown 0010" x="0" y="712" width="344" height="717" frameX="-9" frameY="0" frameWidth="365" frameHeight="717"/>
+	<SubTexture name="PeacockMissDown 0011" x="0" y="712" width="344" height="717" frameX="-9" frameY="0" frameWidth="365" frameHeight="717"/>
+	<SubTexture name="PeacockMissDown 0012" x="0" y="712" width="344" height="717" frameX="-9" frameY="0" frameWidth="365" frameHeight="717"/>
+	<SubTexture name="PeacockMissLeft0000" x="688" y="712" width="389" height="709" frameX="-30" frameY="-26" frameWidth="419" frameHeight="735"/>
+	<SubTexture name="PeacockMissLeft0001" x="1077" y="712" width="413" height="734" frameX="0" frameY="0" frameWidth="419" frameHeight="735"/>
+	<SubTexture name="PeacockMissLeft0002" x="1077" y="712" width="413" height="734" frameX="0" frameY="0" frameWidth="419" frameHeight="735"/>
+	<SubTexture name="PeacockMissLeft0003" x="1490" y="712" width="405" height="734" frameX="-12" frameY="0" frameWidth="419" frameHeight="735"/>
+	<SubTexture name="PeacockMissLeft0004" x="1895" y="712" width="404" height="733" frameX="-12" frameY="0" frameWidth="419" frameHeight="735"/>
+	<SubTexture name="PeacockMissLeft0005" x="1895" y="712" width="404" height="733" frameX="-12" frameY="0" frameWidth="419" frameHeight="735"/>
+	<SubTexture name="PeacockMissLeft0006" x="1895" y="712" width="404" height="733" frameX="-12" frameY="0" frameWidth="419" frameHeight="735"/>
+	<SubTexture name="PeacockMissLeft0007" x="1895" y="712" width="404" height="733" frameX="-12" frameY="0" frameWidth="419" frameHeight="735"/>
+	<SubTexture name="PeacockMissLeft0008" x="1895" y="712" width="404" height="733" frameX="-12" frameY="0" frameWidth="419" frameHeight="735"/>
+	<SubTexture name="PeacockMissLeft0009" x="1895" y="712" width="404" height="733" frameX="-12" frameY="0" frameWidth="419" frameHeight="735"/>
+	<SubTexture name="PeacockMissLeft0010" x="1895" y="712" width="404" height="733" frameX="-12" frameY="0" frameWidth="419" frameHeight="735"/>
+	<SubTexture name="PeacockMissLeft0011" x="1895" y="712" width="404" height="733" frameX="-12" frameY="0" frameWidth="419" frameHeight="735"/>
+	<SubTexture name="PeacockMissLeft0012" x="1895" y="712" width="404" height="733" frameX="-12" frameY="0" frameWidth="419" frameHeight="735"/>
+	<SubTexture name="PeacockMissRight 0000" x="2299" y="712" width="433" height="718" frameX="-5" frameY="-17" frameWidth="438" frameHeight="735"/>
+	<SubTexture name="PeacockMissRight 0001" x="2732" y="712" width="421" height="727" frameX="0" frameY="0" frameWidth="438" frameHeight="735"/>
+	<SubTexture name="PeacockMissRight 0002" x="2732" y="712" width="421" height="727" frameX="0" frameY="0" frameWidth="438" frameHeight="735"/>
+	<SubTexture name="PeacockMissRight 0003" x="3153" y="712" width="422" height="727" frameX="-4" frameY="0" frameWidth="438" frameHeight="735"/>
+	<SubTexture name="PeacockMissRight 0004" x="3575" y="712" width="422" height="727" frameX="-4" frameY="0" frameWidth="438" frameHeight="735"/>
+	<SubTexture name="PeacockMissRight 0005" x="3575" y="712" width="422" height="727" frameX="-4" frameY="0" frameWidth="438" frameHeight="735"/>
+	<SubTexture name="PeacockMissRight 0006" x="3575" y="712" width="422" height="727" frameX="-4" frameY="0" frameWidth="438" frameHeight="735"/>
+	<SubTexture name="PeacockMissRight 0007" x="3575" y="712" width="422" height="727" frameX="-4" frameY="0" frameWidth="438" frameHeight="735"/>
+	<SubTexture name="PeacockMissRight 0008" x="3575" y="712" width="422" height="727" frameX="-4" frameY="0" frameWidth="438" frameHeight="735"/>
+	<SubTexture name="PeacockMissRight 0009" x="3575" y="712" width="422" height="727" frameX="-4" frameY="0" frameWidth="438" frameHeight="735"/>
+	<SubTexture name="PeacockMissRight 0010" x="3575" y="712" width="422" height="727" frameX="-4" frameY="0" frameWidth="438" frameHeight="735"/>
+	<SubTexture name="PeacockMissRight 0011" x="3575" y="712" width="422" height="727" frameX="-4" frameY="0" frameWidth="438" frameHeight="735"/>
+	<SubTexture name="PeacockMissRight 0012" x="3575" y="712" width="422" height="727" frameX="-4" frameY="0" frameWidth="438" frameHeight="735"/>
+	<SubTexture name="PeacockMissUp 0000" x="0" y="1446" width="377" height="779" frameX="-3" frameY="-19" frameWidth="385" frameHeight="805"/>
+	<SubTexture name="PeacockMissUp 0001" x="377" y="1446" width="382" height="805" frameX="-3" frameY="0" frameWidth="385" frameHeight="805"/>
+	<SubTexture name="PeacockMissUp 0002" x="377" y="1446" width="382" height="805" frameX="-3" frameY="0" frameWidth="385" frameHeight="805"/>
+	<SubTexture name="PeacockMissUp 0003" x="759" y="1446" width="382" height="791" frameX="0" frameY="-14" frameWidth="385" frameHeight="805"/>
+	<SubTexture name="PeacockMissUp 0004" x="1141" y="1446" width="382" height="789" frameX="0" frameY="-14" frameWidth="385" frameHeight="805"/>
+	<SubTexture name="PeacockMissUp 0005" x="1141" y="1446" width="382" height="789" frameX="0" frameY="-14" frameWidth="385" frameHeight="805"/>
+	<SubTexture name="PeacockMissUp 0006" x="1141" y="1446" width="382" height="789" frameX="0" frameY="-14" frameWidth="385" frameHeight="805"/>
+	<SubTexture name="PeacockMissUp 0007" x="1141" y="1446" width="382" height="789" frameX="0" frameY="-14" frameWidth="385" frameHeight="805"/>
+	<SubTexture name="PeacockMissUp 0008" x="1141" y="1446" width="382" height="789" frameX="0" frameY="-14" frameWidth="385" frameHeight="805"/>
+	<SubTexture name="PeacockMissUp 0009" x="1141" y="1446" width="382" height="789" frameX="0" frameY="-14" frameWidth="385" frameHeight="805"/>
+	<SubTexture name="PeacockMissUp 0010" x="1141" y="1446" width="382" height="789" frameX="0" frameY="-14" frameWidth="385" frameHeight="805"/>
+	<SubTexture name="PeacockMissUp 0011" x="1141" y="1446" width="382" height="789" frameX="0" frameY="-14" frameWidth="385" frameHeight="805"/>
+	<SubTexture name="PeacockMissUp 0012" x="1141" y="1446" width="382" height="789" frameX="0" frameY="-14" frameWidth="385" frameHeight="805"/>
+	<SubTexture name="PeacockRight0000" x="1523" y="1446" width="424" height="718"/>
+	<SubTexture name="PeacockRight0001" x="1523" y="1446" width="424" height="718"/>
+	<SubTexture name="PeacockRight0002" x="1947" y="1446" width="413" height="712" frameX="0" frameY="-6" frameWidth="424" frameHeight="718"/>
+	<SubTexture name="PeacockRight0003" x="1947" y="1446" width="413" height="712" frameX="0" frameY="-6" frameWidth="424" frameHeight="718"/>
+	<SubTexture name="PeacockRight0004" x="1947" y="1446" width="413" height="712" frameX="0" frameY="-6" frameWidth="424" frameHeight="718"/>
+	<SubTexture name="PeacockRight0005" x="1947" y="1446" width="413" height="712" frameX="0" frameY="-6" frameWidth="424" frameHeight="718"/>
+	<SubTexture name="PeacockRight0006" x="1947" y="1446" width="413" height="712" frameX="0" frameY="-6" frameWidth="424" frameHeight="718"/>
+	<SubTexture name="PeacockRight0007" x="1947" y="1446" width="413" height="712" frameX="0" frameY="-6" frameWidth="424" frameHeight="718"/>
+	<SubTexture name="PeacockRight0008" x="1947" y="1446" width="413" height="712" frameX="0" frameY="-6" frameWidth="424" frameHeight="718"/>
+	<SubTexture name="PeacockRight0009" x="1947" y="1446" width="413" height="712" frameX="0" frameY="-6" frameWidth="424" frameHeight="718"/>
+	<SubTexture name="PeacockRight0010" x="1947" y="1446" width="413" height="712" frameX="0" frameY="-6" frameWidth="424" frameHeight="718"/>
+	<SubTexture name="PeacockRight0011" x="1947" y="1446" width="413" height="712" frameX="0" frameY="-6" frameWidth="424" frameHeight="718"/>
+	<SubTexture name="PeacockRight0012" x="1947" y="1446" width="413" height="712" frameX="0" frameY="-6" frameWidth="424" frameHeight="718"/>
+	<SubTexture name="PeacockRight0013" x="1947" y="1446" width="413" height="712" frameX="0" frameY="-6" frameWidth="424" frameHeight="718"/>
+	<SubTexture name="PeacockUp0000" x="2360" y="1446" width="389" height="767"/>
+	<SubTexture name="PeacockUp0001" x="2360" y="1446" width="389" height="767"/>
+	<SubTexture name="PeacockUp0002" x="2749" y="1446" width="384" height="753" frameX="-1" frameY="-13" frameWidth="389" frameHeight="767"/>
+	<SubTexture name="PeacockUp0003" x="2749" y="1446" width="384" height="753" frameX="-1" frameY="-13" frameWidth="389" frameHeight="767"/>
+	<SubTexture name="PeacockUp0004" x="2749" y="1446" width="384" height="753" frameX="-1" frameY="-13" frameWidth="389" frameHeight="767"/>
+	<SubTexture name="PeacockUp0005" x="2749" y="1446" width="384" height="753" frameX="-1" frameY="-13" frameWidth="389" frameHeight="767"/>
+	<SubTexture name="PeacockUp0006" x="2749" y="1446" width="384" height="753" frameX="-1" frameY="-13" frameWidth="389" frameHeight="767"/>
+	<SubTexture name="PeacockUp0007" x="2749" y="1446" width="384" height="753" frameX="-1" frameY="-13" frameWidth="389" frameHeight="767"/>
+	<SubTexture name="PeacockUp0008" x="2749" y="1446" width="384" height="753" frameX="-1" frameY="-13" frameWidth="389" frameHeight="767"/>
+	<SubTexture name="PeacockUp0009" x="2749" y="1446" width="384" height="753" frameX="-1" frameY="-13" frameWidth="389" frameHeight="767"/>
+	<SubTexture name="PeacockUp0010" x="2749" y="1446" width="384" height="753" frameX="-1" frameY="-13" frameWidth="389" frameHeight="767"/>
+	<SubTexture name="PeacockUp0011" x="2749" y="1446" width="384" height="753" frameX="-1" frameY="-13" frameWidth="389" frameHeight="767"/>
+	<SubTexture name="PeacockUp0012" x="2749" y="1446" width="384" height="753" frameX="-1" frameY="-13" frameWidth="389" frameHeight="767"/>
+	<SubTexture name="PeacockUp0013" x="2749" y="1446" width="384" height="753" frameX="-1" frameY="-13" frameWidth="389" frameHeight="767"/>
+	<SubTexture name="claer0000" x="3133" y="1446" width="401" height="698" frameX="-1" frameY="0" frameWidth="403" frameHeight="698"/>
+	<SubTexture name="claer0001" x="3133" y="1446" width="401" height="698" frameX="-1" frameY="0" frameWidth="403" frameHeight="698"/>
+	<SubTexture name="claer0002" x="3534" y="1446" width="403" height="696" frameX="0" frameY="-2" frameWidth="403" frameHeight="698"/>
+	<SubTexture name="claer0003" x="3534" y="1446" width="403" height="696" frameX="0" frameY="-2" frameWidth="403" frameHeight="698"/>
+	<SubTexture name="claer0004" x="3534" y="1446" width="403" height="696" frameX="0" frameY="-2" frameWidth="403" frameHeight="698"/>
+	<SubTexture name="claer0005" x="3534" y="1446" width="403" height="696" frameX="0" frameY="-2" frameWidth="403" frameHeight="698"/>
+	<SubTexture name="claer0006" x="3534" y="1446" width="403" height="696" frameX="0" frameY="-2" frameWidth="403" frameHeight="698"/>
+	<SubTexture name="claer0007" x="3534" y="1446" width="403" height="696" frameX="0" frameY="-2" frameWidth="403" frameHeight="698"/>
+	<SubTexture name="claer0008" x="3534" y="1446" width="403" height="696" frameX="0" frameY="-2" frameWidth="403" frameHeight="698"/>
+	<SubTexture name="claer0009" x="3534" y="1446" width="403" height="696" frameX="0" frameY="-2" frameWidth="403" frameHeight="698"/>
+	<SubTexture name="claer0010" x="3534" y="1446" width="403" height="696" frameX="0" frameY="-2" frameWidth="403" frameHeight="698"/>
+	<SubTexture name="claer0011" x="3534" y="1446" width="403" height="696" frameX="0" frameY="-2" frameWidth="403" frameHeight="698"/>
+	<SubTexture name="claer0012" x="3534" y="1446" width="403" height="696" frameX="0" frameY="-2" frameWidth="403" frameHeight="698"/>
+	<SubTexture name="claer0013" x="3534" y="1446" width="403" height="696" frameX="0" frameY="-2" frameWidth="403" frameHeight="698"/>
+</TextureAtlas>

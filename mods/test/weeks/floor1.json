@@ -1,0 +1,20 @@
+{
+	"songs": [
+		
+		["miss me?", "", [255, 255, 255]],
+		["hhbg", "", [255, 255, 255]],
+		["evilmissme", "", [255, 255, 255]]
+		
+	],
+	
+	"weekCharacters": ["dad", "bf", "gf" ],
+	"weekBackground": "stage",
+	
+	"storyName": "floor 1",
+	"weekBefore": "tutorial",
+	"weekName": "floor 1",
+	"startUnlocked": true,
+	
+	"hideStoryMode": true,
+	"hideFreeplay": false
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TextureAtlas imagePath="clear.png">
+	
+	<SubTexture name="clear0000" x="0" y="0" width="401" height="697" frameX="-1" frameY="-1" frameWidth="403" frameHeight="698"/>
+	<SubTexture name="clear0001" x="0" y="699" width="403" height="695" frameX="0" frameY="-3" frameWidth="403" frameHeight="698"/>
+	<SubTexture name="clear0002" x="0" y="699" width="403" height="695" frameX="0" frameY="-3" frameWidth="403" frameHeight="698"/>
+	<SubTexture name="clear0003" x="0" y="699" width="403" height="695" frameX="0" frameY="-3" frameWidth="403" frameHeight="698"/>
+	<SubTexture name="clear0004" x="0" y="699" width="403" height="695" frameX="0" frameY="-3" frameWidth="403" frameHeight="698"/>
+	<SubTexture name="clear0005" x="0" y="699" width="403" height="695" frameX="0" frameY="-3" frameWidth="403" frameHeight="698"/>
+	<SubTexture name="clear0006" x="0" y="699" width="403" height="695" frameX="0" frameY="-3" frameWidth="403" frameHeight="698"/>
+	<SubTexture name="clear0007" x="0" y="699" width="403" height="695" frameX="0" frameY="-3" frameWidth="403" frameHeight="698"/>
+	
+</TextureAtlas>

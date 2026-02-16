@@ -1,0 +1,114 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				144
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "ZIB up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				140,
+				20
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "ZIB right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-71,
+				-34
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "ZIB left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-110,
+				-190
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "ZIB down",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-18,
+				29
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "ZIB idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-33,
+				81
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "haha",
+			"indices": [],
+			"name": "ZIB haha"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/zibidimonster2",
+	"position": [
+		-80,
+		-240
+	],
+	"healthicon": "zibmonster",
+	"flip_x": false,
+	"healthbar_colors": [
+		243,
+		255,
+		110
+	],
+	"camera_position": [
+		30,
+		-10
+	],
+	"sing_duration": 6.99999999999999,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

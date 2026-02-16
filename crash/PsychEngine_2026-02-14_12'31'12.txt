@@ -1,0 +1,9 @@
+states/editors/WeekEditorState.hx (line 50)
+flixel/FlxGame.hx (line 646)
+flixel/FlxGame.hx (line 733)
+flixel/FlxGame.hx (line 686)
+flixel/FlxGame.hx (line 559)
+
+Uncaught Error: Invalid Cast
+
+> Crash Handler written by: sqirra-rng

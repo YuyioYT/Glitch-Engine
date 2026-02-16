@@ -1,0 +1,201 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				60
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Id33",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-47,
+				105
+			],
+			"anim": "lol",
+			"fps": 24,
+			"name": "lagh",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				186,
+				9
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-74,
+				149
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-102,
+				-34
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				70,
+				-129
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				81,
+				49
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "dance1",
+			"indices": [],
+			"name": "DANCEY"
+		},
+		{
+			"offsets": [
+				90,
+				70
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "dance2",
+			"indices": [],
+			"name": "DANCO"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				169,
+				-80
+			],
+			"anim": "funny1",
+			"fps": 24,
+			"name": "ehehe",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				169,
+				-80
+			],
+			"anim": "funny2",
+			"fps": 24,
+			"name": "ehehe",
+			"indices": [
+				1,
+				2,
+				3,
+				3,
+				3,
+				3,
+				3,
+				3,
+				3,
+				3,
+				3,
+				3,
+				3,
+				3,
+				3,
+				3,
+				3,
+				3,
+				3,
+				3,
+				3,
+				3,
+				3,
+				3,
+				3
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				169,
+				-80
+			],
+			"anim": "funny3",
+			"fps": 24,
+			"name": "ehehe",
+			"indices": [
+				5,
+				6,
+				7,
+				7,
+				7,
+				7,
+				7,
+				7,
+				7,
+				7,
+				7,
+				7,
+				7,
+				7,
+				7,
+				7,
+				7,
+				7,
+				7,
+				7,
+				7,
+				7,
+				7,
+				7,
+				7,
+				7,
+				7,
+				7
+			]
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/zibidiFACE",
+	"position": [
+		-40,
+		-120
+	],
+	"healthicon": "zibi",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		150,
+		-230
+	],
+	"sing_duration": 6.1,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

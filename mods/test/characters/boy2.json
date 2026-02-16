@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				536,
+				301
+			],
+			"anim": "die",
+			"fps": 24,
+			"name": "bf shot",
+			"indices": []
+		},
+		{
+			"offsets": [
+				10,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "boyid"
+		},
+		{
+			"offsets": [
+				-54,
+				-2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "boyright"
+		},
+		{
+			"offsets": [
+				-9,
+				-24
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "boyleft"
+		},
+		{
+			"offsets": [
+				-55,
+				61
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "boyup"
+		},
+		{
+			"offsets": [
+				-24,
+				-24
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "boydown"
+		},
+		{
+			"offsets": [
+				40,
+				-3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "missright"
+		},
+		{
+			"offsets": [
+				-46,
+				44
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "missup"
+		},
+		{
+			"offsets": [
+				-3,
+				-11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "missleft"
+		},
+		{
+			"offsets": [
+				-10,
+				20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "missdown"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/boy2",
+	"position": [
+		90,
+		270
+	],
+	"healthicon": "boy2",
+	"flip_x": true,
+	"healthbar_colors": [
+		87,
+		53,
+		149
+	],
+	"camera_position": [
+		80,
+		70
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,11 @@
+states/editors/content/EditorPlayState.hx (line 855)
+states/editors/content/EditorPlayState.hx (line 396)
+flixel/FlxState.hx (line 163)
+flixel/FlxState.hx (line 244)
+flixel/FlxGame.hx (line 756)
+flixel/FlxGame.hx (line 686)
+flixel/FlxGame.hx (line 559)
+
+Uncaught Error: Null Object Reference
+
+> Crash Handler written by: sqirra-rng

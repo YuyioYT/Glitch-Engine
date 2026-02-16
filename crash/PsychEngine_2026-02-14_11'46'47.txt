@@ -1,0 +1,8 @@
+flixel/graphics/tile/FlxDrawQuadsItem.hx (line 119)
+flixel/FlxCamera.hx (line 843)
+flixel/FlxGame.hx (line 880)
+flixel/FlxGame.hx (line 572)
+
+Uncaught Error: Null Object Reference
+
+> Crash Handler written by: sqirra-rng

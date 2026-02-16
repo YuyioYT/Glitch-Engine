@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TextureAtlas imagePath="emote.png">
+	
+	<SubTexture name="hey0000" x="0" y="0" width="442" height="545" frameX="-7" frameY="0" frameWidth="450" frameHeight="545"/>
+	<SubTexture name="hey0001" x="0" y="1087" width="439" height="536" frameX="0" frameY="-9" frameWidth="450" frameHeight="545"/>
+	<SubTexture name="hey0002" x="0" y="547" width="439" height="538" frameX="-1" frameY="-7" frameWidth="450" frameHeight="545"/>
+	
+	<SubTexture name="susieHey" x="0" y="1625" width="425" height="523" frameX="0" frameY="0" frameWidth="426" frameHeight="523"/>
+	
+</TextureAtlas>

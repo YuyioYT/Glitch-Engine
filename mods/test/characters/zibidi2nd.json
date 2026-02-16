@@ -1,0 +1,95 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [0, 0],
+			"anim": "idle",
+			"fps": 24,
+			"name": "zidle",
+			"indices": []
+		},
+		{
+			"offsets": [120, 20],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "zleft0"
+		},
+		{
+			"offsets": [75, 107],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "zup0"
+		},
+		{
+			"offsets": [58, -77],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "zdown"
+		},
+		{
+			"loop": false,
+			"offsets": [116, 17],
+			"anim": "Hey",
+			"fps": 24,
+			"name": "hey",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [62, -32],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "fundown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [16, -55],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "zrnormal",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-20, 120],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "funup",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [129, -64],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "funleft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-30, -72],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "zright",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/gonzalez",
+	"position": [-30, -90],
+	"healthicon": "zib",
+	"flip_x": false,
+	"healthbar_colors": [46, 50, 63],
+	"camera_position": [100, -150],
+	"sing_duration": 6.1,
+	"scale": 1.1,
+	"_editor_isPlayer": false
+}

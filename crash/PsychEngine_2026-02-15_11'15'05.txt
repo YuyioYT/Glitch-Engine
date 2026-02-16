@@ -1,0 +1,7 @@
+states/editors/content/EditorPlayState.hx (line 924)
+states/editors/content/EditorPlayState.hx (line 910)
+flixel/sound/FlxSound.hx (line 636)
+
+Uncaught Error: Null Object Reference
+
+> Crash Handler written by: sqirra-rng

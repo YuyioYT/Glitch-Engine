@@ -1,0 +1,151 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [90, 70],
+			"anim": "dance2",
+			"fps": 24,
+			"name": "DANCO",
+			"indices": []
+		},
+		{
+			"offsets": [169, -80],
+			"loop": false,
+			"fps": 24,
+			"anim": "funny1",
+			"indices": [],
+			"name": "ehehe"
+		},
+		{
+			"offsets": [169, -80],
+			"loop": false,
+			"fps": 24,
+			"anim": "funny2",
+			"indices": [1, 2, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3],
+			"name": "ehehe"
+		},
+		{
+			"offsets": [169, -80],
+			"loop": false,
+			"fps": 24,
+			"anim": "funny3",
+			"indices": [5, 6, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+			"name": "ehehe"
+		},
+		{
+			"loop": false,
+			"offsets": [0, -112],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "dow2",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-90, 20],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "rig2",
+			"indices": []
+		},
+		{
+			"offsets": [60, 152],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "up3"
+		},
+		{
+			"offsets": [210, 37],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "lef3"
+		},
+		{
+			"loop": false,
+			"offsets": [-28, 49],
+			"anim": "cough",
+			"fps": 24,
+			"name": "cough transition",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [0, 60],
+			"anim": "idle",
+			"fps": 24,
+			"name": "evil idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [445, 12],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "evil left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [86, 299],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "evil up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [220, 71],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "evil down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-23, 78],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "evil right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [243, 285],
+			"anim": "lol",
+			"fps": 24,
+			"name": "evil laugh",
+			"indices": []
+		},
+		{
+			"offsets": [540, 70],
+			"loop": false,
+			"fps": 24,
+			"anim": "stomp",
+			"indices": [],
+			"name": "stomp"
+		},
+		{
+			"offsets": [81, 49],
+			"indices": [],
+			"fps": 14,
+			"anim": "dance1",
+			"loop": true,
+			"name": "evildance"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/evilzibidi",
+	"position": [-40, -120],
+	"healthicon": "evilzib",
+	"flip_x": false,
+	"healthbar_colors": [255, 0, 0],
+	"camera_position": [150, -230],
+	"sing_duration": 6.1,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

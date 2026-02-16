@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "zidle"
+		},
+		{
+			"offsets": [
+				63,
+				-77
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "zdown"
+		},
+		{
+			"offsets": [
+				-68,
+				104
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "zup"
+		},
+		{
+			"offsets": [
+				-7,
+				15
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "Hey",
+			"indices": [],
+			"name": "hey"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-68,
+				106
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "zum",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				52,
+				-89
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "zdm",
+			"indices": []
+		},
+		{
+			"offsets": [
+				70,
+				-80
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "zright"
+		},
+		{
+			"offsets": [
+				-62,
+				19
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "zleft"
+		},
+		{
+			"offsets": [
+				-61,
+				22
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "zlm"
+		},
+		{
+			"offsets": [
+				70,
+				-60
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "zrm"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/zibidi",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		0,
+		-150
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

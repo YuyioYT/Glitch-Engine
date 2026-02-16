@@ -1,0 +1,245 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Id33"
+		},
+		{
+			"offsets": [
+				-47,
+				105
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "lol",
+			"indices": [],
+			"name": "lagh"
+		},
+		{
+			"offsets": [
+				186,
+				9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				70,
+				-129
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				81,
+				49
+			],
+			"anim": "dance1",
+			"fps": 24,
+			"name": "DANCEY",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				90,
+				70
+			],
+			"anim": "dance2",
+			"fps": 24,
+			"name": "DANCO",
+			"indices": []
+		},
+		{
+			"offsets": [
+				169,
+				-80
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "funny1",
+			"indices": [],
+			"name": "ehehe"
+		},
+		{
+			"offsets": [
+				169,
+				-80
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "funny2",
+			"indices": [
+				1,
+				2,
+				3,
+				3,
+				3,
+				3,
+				3,
+				3,
+				3,
+				3,
+				3,
+				3,
+				3,
+				3,
+				3,
+				3,
+				3,
+				3,
+				3,
+				3,
+				3,
+				3,
+				3,
+				3,
+				3
+			],
+			"name": "ehehe"
+		},
+		{
+			"offsets": [
+				169,
+				-80
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "funny3",
+			"indices": [
+				5,
+				6,
+				7,
+				7,
+				7,
+				7,
+				7,
+				7,
+				7,
+				7,
+				7,
+				7,
+				7,
+				7,
+				7,
+				7,
+				7,
+				7,
+				7,
+				7,
+				7,
+				7,
+				7,
+				7,
+				7,
+				7,
+				7,
+				7
+			],
+			"name": "ehehe"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-102,
+				-12
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				210,
+				0
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "lef2",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				29,
+				165
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "up2",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-112
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "dow2",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-90,
+				20
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "rig2",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-74,
+				149
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "up0"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/zibidi",
+	"position": [
+		-40,
+		-120
+	],
+	"healthicon": "zibi",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		150,
+		-230
+	],
+	"sing_duration": 6.1,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

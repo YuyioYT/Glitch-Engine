@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TextureAtlas imagePath="dancing.png">
+	
+	<SubTexture name="dancingLeft0000" x="0" y="0" width="476" height="453" frameX="0" frameY="-15" frameWidth="476" frameHeight="468"/>
+	<SubTexture name="dancingLeft0001" x="922" y="0" width="460" height="468" frameX="-14" frameY="0" frameWidth="476" frameHeight="468"/>
+	<SubTexture name="dancingLeft0002" x="2636" y="0" width="429" height="555" frameX="0" frameY="-1" frameWidth="429" frameHeight="556"/>
+	<SubTexture name="dancingLeft0003" x="1817" y="0" width="413" height="545" frameX="-11" frameY="-11" frameWidth="429" frameHeight="556"/>
+	
+	<SubTexture name="dancingRight0000" x="478" y="0" width="442" height="456" frameX="-5" frameY="-18" frameWidth="448" frameHeight="474"/>
+	<SubTexture name="dancingRight0001" x="1384" y="0" width="431" height="474" frameX="0" frameY="0" frameWidth="448" frameHeight="474"/>
+	<SubTexture name="dancingRight0002" x="3067" y="0" width="399" height="556" frameX="0" frameY="0" frameWidth="405" frameHeight="556"/>
+	<SubTexture name="dancingRight0003" x="2232" y="0" width="402" height="545" frameX="-3" frameY="-11" frameWidth="405" frameHeight="556"/>
+	
+</TextureAtlas>
