@@ -34,3 +34,13 @@ Slushi Engine:
 
 Win GDI Functions with some bugs fixes like various screens support and more shaders
 
+//////////////////////////////////
+
+Credits to all of these amazing engines and the people that work on them:
+
+https://codename-engine.com/
+
+https://github.com/Slushi-Github/Slushi-Engine
+
+https://github.com/ShadowMario/FNF-PsychEngine/releases
+
