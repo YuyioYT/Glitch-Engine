@@ -10,6 +10,8 @@ New more easy editor access with 7 (Unfinished)
 
 Full screen with F11
 
+GameJolt support 8 in the main menu (very unfinished and alpha)
+
 //////////////////////////
 
 Psych engine: i dont need to explain the base of the engine is psych engine
